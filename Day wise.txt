@@ -1,0 +1,63 @@
+	Flutter Development:
+		Cross platform application
+
+	Android: Java, Kotlin
+	Web app: Spring, Laravel, ASP Web API, Node, Flask/ DJango
+	iOS: Swift
+	Desktop: swing, wpf, tkinter
+	
+
+	Dart programming language:
+	Console application:
+		Back end/ API
+		Data end/ File, MySQL
+	Cross Application: Desktop, Web, Android, iOS
+		UI		>> Flutter
+		API		>> Flutter with Firebase
+		Data		>> Fire store
+	Cross Application: Desktop, Web, Android, iOS
+		UI		>> Flutter
+		API		>> Node JS/ Java/ Python
+		Data		>> Any(NoSQL, MySQL)
+	
+	Editor tools:
+		vs code >> browser(live changes/ live server)
+		eclipse
+		IntelliJ
+	Software Development Kit:
+		Java SDK >> JDK
+		Microsoft SDK >> dotnet
+		Dart SDK
+
+	Environment Setup:
+		Installing dart sdk
+		Installing vs code
+
+	creating file:
+		greet.dart
+	write sample code:
+		void main(){print("Greeting message");}
+	Run:
+		open integrated terminal by right click the file and type 			following command
+		dart greet.dart
+	Output: 
+		in the console/ terminal
+
+	program:
+		creating an application
+	Components of applications
+		Data			>> required data
+			variables, data types(data size and format of variables)
+		Functionality	>> operations
+			functions, operators
+		eg:
+			GPay:
+				data >> email, account, upi
+				functionality>> transfer, recharge, bill pay
+			Insta:
+				Data >> email, name, gender, dob
+				functionality>> post, comment, like, share
+			eCom:
+				Data >> email, phone, name, address
+				Functionality>> place order, kart, wish list, profile
+	
