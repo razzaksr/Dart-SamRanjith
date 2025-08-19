@@ -60,4 +60,40 @@
 			eCom:
 				Data >> email, phone, name, address
 				Functionality>> place order, kart, wish list, profile
-	
+	in built classes:
+		String, Map, Set, RegExp
+	in built packages/ folders:
+		dart:io, dart:core
+
+
+	Tokens:
+		comments: compiler wont consider to run
+			// single line comment
+			/*
+			multi
+			line
+			comment
+			*/
+		keywords: 61 reserved words with in built meaning
+			eg: if, for, continue, void, return
+		identifiers: user defined name with custom meaning
+			variables, functions, class, package
+			rule's:
+				do's		>> kitkat, kit89kat, _kitkat, _98kitkat
+				dont's	>> public, kit kat, kit&*kat, 8kitkat
+		data types: format
+			int, bigint, double, num		>> numerical types
+			String					>> char type
+			bool						>> Boolean true/ false
+			grouping data types:
+				List, Set, Map
+			
+		operators
+		separators:
+			, ;  {}
+
+
+		Task:
+			patient: 
+			name, age, gender, height, weight, symptoms, contact, 					isInsuranceAvailable
+			
