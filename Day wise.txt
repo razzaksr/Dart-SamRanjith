@@ -97,3 +97,6 @@
 			patient: 
 			name, age, gender, height, weight, symptoms, contact, 					isInsuranceAvailable
 			
+			bank kyc:
+				name, address, accountType, mobile, email
+			name your account accountType opening application has received we will inform the confirmation via email or contact
