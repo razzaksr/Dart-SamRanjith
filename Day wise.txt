@@ -100,3 +100,27 @@
 			bank kyc:
 				name, address, accountType, mobile, email
 			name your account accountType opening application has received we will inform the confirmation via email or contact
+
+		Type Conversion:
+			parsing>> String to int, String to double, String to bool
+		
+		Operators:
+		Numberical types: results will be numbers
+			Arithemetic		+ - * / %
+			Unary			++(increment by 1) --(decremenet by 1)
+			Assignemnt		+=	-=	*=	/=	%=
+			Bitwise			& | ^ >> <<
+		Boolean types: results will be true/ false boolean values
+			Relational		> >= < <= == !=
+			Logical			&& || ( combine more than one relational )
+
+		Task:
+			BMI Calculator:
+				weight in kg
+				height in cm>> to meter (h/100)
+				bmi = weight/m*m
+			Currency bound to indian rupee
+			
+			Check loan for housing loan
+				income 5L and above and NoOfYearItrFiled is 4 or more
+		
