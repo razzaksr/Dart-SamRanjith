@@ -124,3 +124,21 @@
 			Check loan for housing loan
 				income 5L and above and NoOfYearItrFiled is 4 or more
 		
+
+		Arithmetic use cases:
+			1. LOA petrol bunk discount:
+				get the user amount in int 
+				get discount percentage in double
+				subtract discount amount from given user amount
+			2. GPay spiltup share:
+				get any 3 expenses like food, travel, purchase in int's
+				find totalExpenses
+				get personcount from user
+				totalExpenses/personcount
+		Relational use cases:
+			1. Find Billionor:
+				get the networth of ambani, adani in double
+				check "Is adani is rich over ambani "
+			2. Ladies compartment seat allocation:
+				get gender from user in String such as "male" "female" "other"
+				check "can i get seat " should be true only if gender is "female"
