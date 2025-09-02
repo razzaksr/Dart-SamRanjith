@@ -142,3 +142,64 @@
 			2. Ladies compartment seat allocation:
 				get gender from user in String such as "male" "female" "other"
 				check "can i get seat " should be true only if gender is "female"
+		
+		Decision Making/ Control Statements:
+			to understand perform user required action based on the condition using relational and logical operators
+			select one action from the many using condition
+			eg:
+				login into insta to perform any following actions
+				1. watch reels
+				2. like reels
+				3. comment reels
+				4. post new reel
+				5. save any reel
+				6. message with friend
+			
+			if			>> int, double, String formats data, also you can implement all types of relational and logical operators
+				if(condition){
+					// block of statements when condition statisfied
+				}
+
+				if(condition){
+					// block of statements when condition statisfied
+				}
+				else{
+					// block of statements when condition fails
+				}
+
+				ladder
+				if(condition1){
+					// block of condition1 satisfied
+				}
+				else if(condition2){
+					// block of condition2 satisfied
+				}
+				.
+				.
+				.
+				.
+				.
+				else{
+					// block of false of all condition
+				}
+			switch >> only int, String formats allowed, also we cant use >,>=,<,<=, logical operators
+			switch(condition){
+				case : ...
+				case : ....
+				case :.....
+				default:... if nothing matches
+			}
+	Task:
+		1. using if else
+			print you can participate in election if userage is 18 or above, otherwise print you can't participate or vote in election
+		2. using if else if ... ladder
+			enter the annualincome and print what is tax percentage they have to pay
+			5 or less than >> no tax
+			5 to 10 >> 5 percent
+			10 to 15 >> 10 percent
+			15 to 20 >> 20 percent
+			20 to 30 >> 25 percent
+			30 or above> 30 percent
+			eg:
+				2.5  no tax
+				7.8	 5 percent tax
