@@ -203,3 +203,37 @@
 			eg:
 				2.5  no tax
 				7.8	 5 percent tax
+		3. Using switch to check theatre where user given movie running
+			eg:
+				Coolie	>> Divyam Cinemas
+				Vikram	>> Mala Theatre
+				Leo		>> Divyam Cinemas
+				Kantara	>> Venkatesh Cinemas
+				Maanaadu>> Mala Cinemas
+				Goat	>> Prabas Cinemas
+				GBU		>> Divyam Cinemas
+	
+	Loop Statements:
+		block of codes will repeat/ recursively until the condition false
+
+		repeatation: 
+			begin			>> initialization
+			step forward	>> iteration
+			end				>> condition
+
+		for: entry check
+			for(init;cond;iter){
+				// block to be repeated
+			}
+		while: entry check
+			// init
+			while(condition){
+				// block to be repeated
+				// iter
+			}
+		do while: exit check
+		// init
+		do{
+			// block to be repeated
+			// iter
+		}while(cond);
