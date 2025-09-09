@@ -237,3 +237,25 @@
 			// block to be repeated
 			// iter
 		}while(cond);
+
+	nested loop:
+		loop1:
+			loop1 logic to be repeated
+			loop2:
+				loop2 logic to be repeated
+
+		eg:
+			theatre single counter ticket issue
+			show >> 1 to 4>> loop1
+				show time
+				tickets >> 1 to 300>> loop2
+					get the money and issue the ticket
+			
+			show 1>>
+				ticket 1 to 300: get the money and issue the ticket
+			show 2>>
+				ticket 1 to 300: get the money and issue the ticket
+			show 3>>
+				ticket 1 to 300: get the money and issue the ticket
+			show 4>>
+				ticket 1 to 300: get the money and issue the ticket
