@@ -259,3 +259,22 @@
 				ticket 1 to 300: get the money and issue the ticket
 			show 4>>
 				ticket 1 to 300: get the money and issue the ticket
+	List/ grouping:
+		storage where multiple data are stored under one variable
+		those multiple data are belong to same type or different
+		syntax: var variable_name = []	// kart
+		variable	>> all values
+		values in list are located with index: starts with 0 ... size-1
+		eg:
+			var marks = [34,89,110,56,90,34,11,46];	>> size = 8
+			index: 0 to 7
+			marks[0]	>> 34
+			marks[7]	>> 46
+			marks[8]	>> error
+	Task:
+		Store 10 account balances in the list among perform following process
+		1. print all account balances
+		2. Add new account balance
+		3. Update specific account balance using position by deposit
+		4. Update specific account balance using position by withdraw
+		
