@@ -7,7 +7,7 @@
 	Desktop: swing, wpf, tkinter
 	
 
-	Dart programming language:
+Dart programming language:
 	Console application:
 		Back end/ API
 		Data end/ File, MySQL
@@ -277,4 +277,34 @@
 		2. Add new account balance
 		3. Update specific account balance using position by deposit
 		4. Update specific account balance using position by withdraw
+	
+	Functions/ process:
+		isolated block with specific logic written
+		whenever we make call to that the specified logic will be executed
+		reusability and avoid complexity
+
+		definition:
+		returntype nameOfTheFunction(parameters){
+			// logic
+			// statement
+		}
+		returntype>> data to be returned to the caller
+		parameter >> data to be passed/ argument in order to call the function
+
+		int, string, boolean
+
+		call:
+		nameOfTheFunction(argument)
+
+		types:
+			in built functions: add, remove, print
+			user defined functions:
+				variants:
+					with return and with param
+					with return and no param
+					no return and no param
+					no return and with param
 		
+		Task:
+			create, calculate return gpa from subject grades
+			create, calculate EMI and print from outstanding
