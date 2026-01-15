@@ -308,3 +308,8 @@ Dart programming language:
 		Task:
 			create, calculate return gpa from subject grades
 			create, calculate EMI and print from outstanding
+		Menu/ choice based function call:
+			Calculator
+		Task:
+			Currency Convertors:
+				dollar, euro, thinar
