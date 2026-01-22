@@ -333,4 +333,11 @@ Dart programming language:
 						decimal % 2 = append it in string
 						decimal / 2 = decimal
 					reverse the string and return
+		Task:
+			find SUM/ Total value of the list using function
+			find average of the list using function
+				eg: 10,2,0,6	>> 4.2
+			find Second maximum value in the list using function
+				eg: 12,10,8,9,13	>> 12
+					5,6,100,2		>> 6
 					
