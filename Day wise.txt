@@ -353,3 +353,25 @@ Dart programming language:
 		one collection inside another
 		eg: List >> Map
 			Map >> List
+	Object Oriented:
+		class
+		object
+		Inheritance
+	Exception Handling:
+		offer another chance to the user who making mistakes during 
+		execution which causes application termination abnormally
+		eg: 3 chances for wrong pin ATM/ UPI
+
+		objective:
+			1. let the code/ app complete
+			2. provide another chance
+
+		ExceptionClass: FormatException
+
+		Handle:
+			try{
+				// possible statement which cause exception
+			} on ExceptionClass{
+				// another chance>> by redoing same 
+			}
+		
