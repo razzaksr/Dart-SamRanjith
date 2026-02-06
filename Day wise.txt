@@ -374,4 +374,18 @@ Dart programming language:
 			} on ExceptionClass{
 				// another chance>> by redoing same 
 			}
+	Dart Asynchronous programming:
+		Application Programming Interface Call
+			communication between applications/ servers:
+				eg: check account balance via gpay
+					google server/ app connecting to bank server
 		
+		Concepts: Future, async with await, Streams
+
+		Future: Data(valid/ error) available for future when API call happen
+		Async/await: async function can be accessed by multiple caller in same time
+					await holds execution to receive future data for each callers
+		Streams: Grouping of mutiple async function in order to 
+					obtain multiple async values
+			Task:
+				adding new element into income list using Future, async/await
